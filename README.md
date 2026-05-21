@@ -15,3 +15,5 @@ Embedded C
 MikroC
 Proteus
 PIC16F877A
+
+to make sure it there is screen in proteus me and my firend who work with me in it make screen printour names ypu will see that in code in line "39"
