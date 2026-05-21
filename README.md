@@ -1,2 +1,2 @@
 # smart-fire-alarm-system
-Smart Fire Alarm System using PIC16F877A and Proteus
+A smart fire alarm system designed using PIC16F877A microcontroller and simulated in Proteus.
